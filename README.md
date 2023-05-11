@@ -1,12 +1,3 @@
-# Robot-typewriter
-Sure, here's an example of how the README file for a Git repository for a robotics startup might be expanded to include information on the robot's key features:
-
-# Robot Startup
-
-## Introduction
-
-Our robotics startup is developing a new robot that is capable of moving autonomously, recognizing voice commands, displaying a user interface on its head/face, making funny voices, activating a display to YouTube with the press of a button, and gripping or picking up toys with its hands. The robot is designed to be both fun and functional, with a range of features that make it appealing to consumers and businesses alike.
-
 ## Key Features
 
 ### Moves Autonomously
