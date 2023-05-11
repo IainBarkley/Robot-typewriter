@@ -1,4 +1,4 @@
- Hardware:
+  Hardware:
 - Raspberry Pi 4 or similar single-board computer
 - 2 DC motors with wheels
 - L298N motor driver
