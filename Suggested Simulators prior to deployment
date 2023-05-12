@@ -1,0 +1,11 @@
+
+1. Gazebo: Gazebo is an open-source, multi-robot simulator that is widely used in robotics research and education. It allows you to simulate a wide range of robots and environments, and comes with built-in support for physics, sensors, and controllers.
+
+2. V-REP: V-REP is a powerful and versatile robotics simulator that supports a wide range of robots and environments. It comes with a user-friendly interface and supports a wide range of programming languages, including C++, Python, and MATLAB.
+
+3. Webots: Webots is a commercial robotics simulator that provides a realistic simulation environment for a wide range of robots and environments. It comes with a user-friendly interface and supports a wide range of programming languages, including C++, Python, and MATLAB.
+
+4. CoppeliaSim: CoppeliaSim (formerly known as V-REP) is a commercial robotics simulator that provides a realistic simulation environment for a wide range of robots and environments. It comes with a user-friendly interface and supports a wide range of programming languages, including C++, Python, and MATLAB.
+
+5. Robot Operating System (ROS) Gazebo: ROS Gazebo is a robotics simulator that is part of the Robot Operating System (ROS) framework. It allows you to simulate a wide range of robots and environments, and comes with built-in support for physics, sensors, and controllers.
+
